@@ -6,10 +6,12 @@ Tool for interactively exploring raw Ethereum transactions. Supports variable le
 ## small tx with simple parsing
 ![simple tx](/images/simple.png?raw=true "")
 Highlighting on mouseover
-![simple tx](/images/simple-mouseover.png?raw=true "")
+![simple tx highlight](/images/simple-mouseover.png?raw=true "")
 
 ## tx with verbose rlp parsing
-![simple tx](/images/verbose.png?raw=true "")
+![verbose](/images/verbose.png?raw=true "")
+![verbose continued](/images/verbose-continued.png?raw=true "")
+
 
 
 
